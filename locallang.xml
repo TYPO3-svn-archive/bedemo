@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>Labels for Extension bedemo</description>
+		<type>module</type>
+		<labelContext type="array">
+		</labelContext>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="actionDenied.header">Changes aborted</label>
+			<label index="actionDenied.text">Changes in this branch are not allowed!</label>
+			<label index="actionDenied.admin"><![CDATA[Please set <tt>mod.tools_txbedemo.deniedForAdmins = 0</tt> in PageTS config.]]></label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="actionDenied.header">Vorgang abgebrochen</label>
+			<label index="actionDenied.text">Veränderungen in diesem Seitenbereich sind nicht erlaubt!</label>
+			<label index="actionDenied.admin"><![CDATA[Bitte setzen Sie <tt>mod.tools_txbedemo.deniedForAdmins = 0</tt> im Seiten-TSconfig.]]></label>
+		</languageKey>
+	</data>
+</T3locallang>
